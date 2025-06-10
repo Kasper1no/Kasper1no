@@ -30,13 +30,13 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
-</div>
+    </div>
 </p>
 <br>
 <h3>Statistical Data :</h3>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper1no&theme=dark&show_icons=true&hide_border=true&layout=compact
-" alt="Kasper1no"></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper1no&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="Kasper1no">
+</p>
 <br>
 <p>
     <a href="https://github.com/Kasper1no">Kasper1no</a>
